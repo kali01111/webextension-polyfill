@@ -52,7 +52,7 @@
       "text",
       "html"
     ],
-    "instrument": false
+    "instrument": true
   },
   "scripts": {
     "build": "npm run lint && grunt",
